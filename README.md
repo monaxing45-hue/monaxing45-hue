@@ -1,4 +1,8 @@
-# Meto Peptide
+<p align="center">
+  <img src="./meto-peptide-logo.png" alt="Meto Peptide Logo" width="480">
+</p>
+
+#Meto Peptide
 
 **Research-use-only peptides | Scientific resources | Product documentation**
 
